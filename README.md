@@ -29,7 +29,9 @@ Node.js, Sequelize, Express on the Backend.
 
 How to Contact Me
 Feel free to get in touch! I'm always open to new opportunities, collaborations, and interesting conversations. You can find me on LinkedIn  https://www.linkedin.com/in/luis-leonardo-villarraga-villabona-b3941b190/.
-On email : leonardo381@gmail.com
+
+E-mail : leonardo381@gmail.com
+
 WhatsApp : +57 3202964131
 
 Thanks for visiting my GitHub profile! I'm excited about what the future holds in the world of software development. Let's build amazing things together!
