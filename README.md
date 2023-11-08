@@ -8,9 +8,9 @@ About Me
 🌐 Passionate about creating web applications and software development.
 🤝 Proactive, collaborative, and a team player. I enjoy working in teams and learning from others.
 My Skills
-Front-End: HTML, CSS, JavaScript, React.
-Back-End: Node.js, Express, Python.
-Databases: SQL, MongoDB.
+Front-End: HTML, CSS, JavaScript, React, Redux, Bootstrap, Zustand.
+Back-End: Node.js, Express.
+Databases: SQL, Express, PostgreSQL.
 Tools: Git, GitHub, Visual Studio Code.
 My Featured Projects
 Project 1: 
